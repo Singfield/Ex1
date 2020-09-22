@@ -1,6 +1,6 @@
 # Temporaire
 
-POur conserver un semblant d'historique j'ai push mon travail sur  differernte branche
+POur conserver un semblant d'historique j'ai push mon travail sur  differerntes branche
 FEATURE + :
 Exo 1 = exercice d'héritage
 
